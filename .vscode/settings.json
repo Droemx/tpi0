@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/894f450d-fec7-4f80-b408-4b71fac65d20/resourceGroups/tpiTarea_group/providers/Microsoft.Web/sites/tpiTarea",
+    "appService.deploySubpath": "dist\\tpi0"
+}
